@@ -1,0 +1,1 @@
+first Nuxt Project
